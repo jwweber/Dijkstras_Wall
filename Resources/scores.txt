@@ -1,0 +1,6 @@
+Peter|15400
+Jamison|8450
+Anna|14000
+Lance|6033
+Muffin|8450
+Fourvel|5333
