@@ -1,6 +1,9 @@
 # Dijkstras_Wall
 
 Dikstra's Wall is an original game I created to gain experience implementing more complicated data structures and algorithms.
+
+Please download and view the video demonstration above.
+
 It displays a grid containing a blue box and a red box. When the game is started, the blue box begins to move toward the red box 
 always taking the shortest path possible. It is the job of the player to delay the blue box from reaching the red box as long as possible. 
 This is done by building walls. Once a new wall is built, the game recalculates the shortest path around that wall, 
@@ -15,3 +18,5 @@ Obviously, the game uses my own implementation of Dijkstras algorithm to calcula
 a show case for my own implementation of many important data structures and algorithms, not from libraries. These include linked lists, 
 binary search trees, binary heaps, graphs, queues, stacks and spanning trees with most of their common functions. 
 I encourage you to take a look at the source code to get a better idea about the implementation of this game. 
+
+If you have any questions about this project, please direct them to jwweber@asu.edu.
